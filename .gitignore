@@ -6,4 +6,6 @@
 /frontend/.cache
 /frontend/dist
 
-/scraper
+/scraper/node_modules
+/scraper/.cache
+/scraper/dist/
