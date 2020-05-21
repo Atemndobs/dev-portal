@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start scraper": "node scraper.js",
+    "scrap": "node scraper.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^3.1.0"
   }
 }
