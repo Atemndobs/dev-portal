@@ -1,6 +1,6 @@
 /api/node_modules
 /api/.cache
-/api/dist
+/api/dist/
 
 /frontend/node_modules
 /frontend/.cache
