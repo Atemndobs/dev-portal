@@ -1,0 +1,1 @@
+{"id":"images/person_2.jpg","dependencies":[{"name":"/var/www/html/worker/frontend/package.json","includedInParent":true,"mtime":1578835446598}],"generated":{"js":"module.exports = \"/5b106f56a24b036a01eb960a3039b6e9.jpg\";"},"sourceMaps":null,"error":null,"hash":"545486c358d7992328c4b1b8feb59433","cacheData":{"env":{}}}

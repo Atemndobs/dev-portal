@@ -1,0 +1,1 @@
+{"id":"images/img_4.jpg","dependencies":[{"name":"/var/www/html/worker/frontend/package.json","includedInParent":true,"mtime":1578835446598}],"generated":{"js":"module.exports = \"/350d3acb858940dca53f99cba3ff1ea4.jpg\";"},"sourceMaps":null,"error":null,"hash":"acd401d9df9544a252ed7ade3659bb4f","cacheData":{"env":{}}}
